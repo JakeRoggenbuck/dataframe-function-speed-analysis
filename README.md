@@ -1,4 +1,4 @@
-# Apply Function Challenge
+# Dataframe Function Speed Analysis
 Testing a bunch of ways to apply a function to each item in a dataframe.
 
 # Goal
