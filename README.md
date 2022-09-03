@@ -5,5 +5,7 @@ Testing a bunch of ways to apply a function to each item in a dataframe.
 Find the optimal way to apply different types of functions to a large dataframe.
 
 # Results
-Each test has been run 5 times, timed and averaged with the functions time_function, and time_average respectively.
+Each test has been run 5 times, timed and averaged with the functions time_function, and time_average respectively.<br>
+Error bars are present, however they are very small (in the hundredths of seconds).
+
 ![out](./out.png)
